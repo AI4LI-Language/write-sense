@@ -18,7 +18,7 @@ To run the demo, start the backend:
 ```
 python backend.py
 ```
-Finally, open the frontend script (frontend.html) in your favorite browser.
+Finally, open the frontend script (website.html) in your favorite browser.
 # How to use
 As of May 1, 2025, Write Sense offers only basic features:
 - Any speech you say will be displayed on the screen.
