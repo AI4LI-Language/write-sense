@@ -12,7 +12,7 @@ First, make sure you have Python and pip installed on your system. Then, in your
 ```
 pip install -r requirements.txt 
 ```
-Next, start the backend:
+To run the demo, start the backend:
 ```
 python backend.py
 ```
