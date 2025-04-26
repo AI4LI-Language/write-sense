@@ -11,7 +11,7 @@ Next, start the backend:
 ```
 python backend.py
 ```
-Finally, open the frontend script (frontend.html) in your favorite browser:
+Finally, open the frontend script (frontend.html) in your favorite browser.
 # How to use
 
 ![1](https://github.com/AI4LI-Language/write-sense/blob/main/demo.png)
