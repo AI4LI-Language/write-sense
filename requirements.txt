@@ -1,0 +1,6 @@
+fastapi
+websocket
+torch
+transformers
+numpy==1.26.4
+pyannote.audio
